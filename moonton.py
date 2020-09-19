@@ -8,10 +8,10 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
+# Author         : Jawa Export                                  #
+# Github         : https://github.com/KangSmail01                #
+# Facebook       : https://www.facebook.com/凸冖し冖凸         #
+# Telegram       : https://t.me/KangSmial◕‿◕                     #
 # Python version : 3.7++                                   #
 ############################################################
 
@@ -66,7 +66,7 @@ class MOONTON:
 |V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
 | |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
 ---------------------------------------------
-          - Created By (DulLah) -
+          - Created By ('\e[1;34mK\e[1;36ma\e[1;31mn\e[1;35mg\e[1;33mS\e[1;37m>) -
 ---------------------------------------------\n''')
 ##########################################
 # Please don't remove the author name :( #
